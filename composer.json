@@ -1,0 +1,9 @@
+{
+    "name": "userge/php",
+    "description": "I Just Want PHP",
+    "type": "nothing",
+    "require": 
+		{ 
+			"php": "7.4.30"
+		}
+}
